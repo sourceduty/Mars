@@ -16,5 +16,13 @@ Designing a rover with the capability to disassemble a previous rover for salvag
 
 Moreover, safety protocols, redundant systems, and resource-efficient algorithms are vital to ensure the rover's reliability and minimize the risk of accidents. Compatibility with the target rover's design, environmental considerations to prevent contamination, and human supervision capabilities for critical decision-making are essential aspects. Overall, this rover would serve as a valuable asset in future exploration missions, promoting sustainability by reusing resources and components from decommissioned rovers.
 
+#
+### Design for Salvage-Capable Rovers in Space Exploration
+
+Designing a rover capable of salvaging previous rovers is notably more expensive than creating a standard rover. The increased cost stems from the complexity of the technology, requiring advanced robotics, sensors, and specialized tools. Extensive research and development efforts, including customization for specific missions and target rovers, contribute to the higher expenses. Rigorous testing, integration, redundancy, and potential human involvement further elevate the overall cost.
+
+Despite the greater upfront investment, the benefits of resource recovery and sustainability in future missions may justify these expenses. Salvage rovers have the potential to recycle valuable materials and components, reducing the need for new resources and minimizing waste. The decision to develop a salvage-capable rover should be carefully weighed against the associated costs and mission objectives to determine its feasibility and value.
+
+
 ***
 
