@@ -24,5 +24,7 @@ Designing a rover capable of salvaging previous rovers is notably more expensive
 Despite the greater upfront investment, the benefits of resource recovery and sustainability in future missions may justify these expenses. Salvage rovers have the potential to recycle valuable materials and components, reducing the need for new resources and minimizing waste. The decision to develop a salvage-capable rover should be carefully weighed against the associated costs and mission objectives to determine its feasibility and value.
 
 
+![Martian Salvage](https://github.com/sourceduty/Mars/assets/123030236/9c578ea0-2b18-4338-a704-6bd792d6bfe2)
+
 ***
 
