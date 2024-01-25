@@ -10,7 +10,7 @@
 Alex: "I'm very surprised that all of the rovers on Mars aren't standardized and easy to disassemble for reuse. I think that the unique design of each Martian rover seems inefficient as designed by humans who practice standardization on Earth."
 
 #
-### Designing a Salvage Rover: Advanced Requirements for Resource Recycling
+### Designing a Salvage Rover
 
 Designing a rover with the capability to disassemble a previous rover for salvage entails several key requirements. Firstly, it needs advanced robotic arms with precise control and a variety of specialized end-effectors for delicate component handling. Additionally, it must have advanced sensors, cameras, and navigation algorithms to accurately identify, approach, and assess the target rover. The disassembly rover should also possess a versatile toolset, secure material handling, and efficient communication systems to carry out the salvage process effectively and report progress to mission control.
 
