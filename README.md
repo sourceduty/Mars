@@ -21,3 +21,4 @@ Despite the greater upfront investment, the benefits of resource recovery and su
 
 ***
 
+![NASA Lightsaber](https://github.com/sourceduty/Mars/assets/123030236/f4924341-58b6-4478-914f-12c008d9d367)
