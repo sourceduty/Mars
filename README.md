@@ -25,4 +25,6 @@ Despite the greater upfront investment, the benefits of resource recovery and su
 
 The [dirt sample tubes](https://www.space.com/nasa-mars-perseverance-rover-sample-tubes-lightsabers) dropped from Perseverance look like lightsabers.
 
+The primary mission of Perseverance involves meticulously collecting Mars rocks and soil, sealing them in tubes, and depositing them at specific surface locations with precise maps for potential future retrieval. In the rover's abdomen, essential equipment like a rotating drill carousel and 43 sample tubes are managed by a small robotic arm. To prevent Earth contamination, "witness tubes" accompany sample tubes, capturing potential contaminants. These witness tubes are opened on the Martian surface to monitor the environment during sample collection. Once collected, samples are stored within the rover until they are strategically placed at designated "sample cache depots" with precise coordinates, allowing for future retrieval and potential return to Earth, ensuring contamination-free Martian material study.
+
 ![NASA Lightsaber](https://github.com/sourceduty/Mars/assets/123030236/f4924341-58b6-4478-914f-12c008d9d367)
