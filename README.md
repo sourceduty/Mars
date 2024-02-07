@@ -80,4 +80,13 @@ The modified SkyCrane or helicopter would require significant advancements in pr
 
 Given these considerations, a rough estimate for a Mars rover recovery mission could exceed $1 billion to $3 billion, factoring in the development of the aerial recovery vehicle, launch costs, mission operations, and contingencies. This estimate is speculative and could vary widely based on the mission's final design, the technologies employed, and the extent of the recovery efforts. The mission's unprecedented nature and the technological advancements required would likely place it at the higher end of cost estimates for interplanetary missions.
 
+#
+### Time Estimate
+
+The total time estimate for a Mars rover recovery mission involves several phases, each with its own set of complexities and time requirements. The initial phase, focusing on research, development, and testing of the aerial recovery vehicle (helicopter or modified SkyCrane), could span several years. Given the advanced technologies and novel systems required, this phase alone might take 5 to 7 years, considering the iterative design, extensive testing, and validation processes needed to ensure the vehicle's capability to perform under Mars' unique conditions.
+
+Following the development phase, the preparation and launch phase would include final vehicle assembly, integration with the launch vehicle, and pre-launch testing. This phase could take an additional 1 to 2 years, depending on the launch window availability and the readiness of the launch infrastructure. The transit from Earth to Mars, aligning with the optimal launch window to minimize travel time and fuel consumption, takes approximately 6 to 9 months, depending on the specific alignment of Earth and Mars.
+
+Once on Mars, the operational phase of the mission, including navigating to and recovering each rover, would depend heavily on the distances between rovers, the recovery vehicle's speed and operational efficiency, and the Martian environmental conditions. This phase could take anywhere from several months to over a year, especially when factoring in the time required for planning each recovery leg, executing the operations, and dealing with potential Martian challenges such as dust storms. In total, from initial development to the completion of recovery operations on Mars, the mission could span approximately 7 to 10 years.
+
 ***
