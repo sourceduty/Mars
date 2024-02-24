@@ -91,4 +91,3 @@ Once on Mars, the operational phase of the mission, including navigating to and 
 
 ***
 
-![Mars Meme](https://github.com/sourceduty/Mars/assets/123030236/f0ac3b73-0835-4da2-a055-82988865a9e0)
