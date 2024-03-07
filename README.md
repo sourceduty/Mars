@@ -159,6 +159,8 @@ A humanoid robot mission to Mars offers a cost-effective alternative to human ex
 
 ## Regolith Sheltered Radar Station
 
+![Regolith Sheltered Radar Station](https://github.com/sourceduty/Mars/assets/123030236/987f6563-9799-4175-9a13-94b27df33ded)
+
 ### Concept Mission
 
 Mission Objective:
