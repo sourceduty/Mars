@@ -161,61 +161,48 @@ A humanoid robot mission to Mars offers a cost-effective alternative to human ex
 
 ### Concept Mission
 
-![Regolith Sheltered Radar Station](https://github.com/sourceduty/Mars/assets/123030236/2c5765a1-293b-4a52-8a92-0918d8f16a51)
+Mission Objective:
+- Establish a radar station on Mars, sheltered by regolith, to enhance surface and atmospheric observation and support future colonization efforts.
 
-Mission Objective: Establish a Regolith Sheltered Radar Station on Mars
+Mission Name: Mars Regolith Radar Outpost (MRRO)
 
-1. Mission Overview:
-   - Objective: To design, transport, and construct a radar station on Mars, protected by a regolith-based shelter for enhanced durability and reduced radiation exposure.
-   - Goals: To provide continuous planetary observation, facilitate deep space communication, and support future manned missions and Martian colonization efforts.
+Phase 1: Preliminary Design and Testing
+- Develop radar technology suitable for Mars' atmosphere and surface conditions.
+- Design a modular shelter structure that utilizes in-situ regolith as radiation shielding and thermal insulation.
+- Conduct Earth-based tests on regolith simulation materials and 3D-printing construction methods.
 
-2. Pre-Mission Planning:
-   A. Spacecraft Design:
-      - Propulsion: Utilize a high-efficiency propulsion system (e.g., ion thrusters) for transit between Earth and Mars, optimizing for a Hohmann transfer orbit to minimize fuel consumption.
-      - Payload Capacity: Design to accommodate radar equipment, construction materials for the shelter, habitat modules, life support systems, and necessary tools and robotics.
-      - Redundancy: Include redundant systems for critical components like communication, life support, and navigation to ensure mission resilience.
+Phase 2: Launch Preparation
+- Spacecraft Design: A spacecraft equipped with a habitat module, a radar system, construction robots, and 3D printers for in-situ resource utilization (ISRU).
+- Launch Vehicle: Utilize SpaceX's Starship, designed for deep space missions, capable of carrying the necessary payload to Mars.
+- Crew Selection: A team of astronauts with expertise in engineering, geology, and robotics.
 
-   B. Crew Selection Criteria:
-      - Expertise in fields such as aerospace engineering, geology, construction, and systems operation.
-      - Physical and psychological endurance to withstand long-duration space travel and the Martian environment.
-      - Training in extravehicular activities (EVAs), robotics operation, and emergency procedures.
+Phase 3: Transit to Mars
+- Trajectory: Utilize a Hohmann transfer orbit for an efficient journey to Mars, with an estimated transit time of approximately 9 months.
+- Crew Tasks: Monitor spacecraft systems, conduct scientific research, and prepare for radar station assembly.
 
-   C. Robotics and Automation:
-      - Utilize robotic rovers and drones for initial site surveying, material transportation, and preliminary construction tasks.
-      - Implement AI-driven systems for autonomous operation of the radar station and routine maintenance tasks.
+Phase 4: Mars Surface Operations
+- Landing Site: Select a site with ample regolith and minimal rock obstruction for ease of construction and optimal radar functionality.
+- Shelter Construction: Deploy construction robots to gather regolith and 3D print the shelter structure around the radar system.
+- Radar Installation: Assemble the radar system within the shelter, ensuring alignment and calibration for optimal operation.
 
-3. Launch Phase:
-   - Launch Window: Select an optimal launch window based on Earth-Mars alignment to reduce travel time and fuel requirements.
-   - Vehicle: Utilize a heavy-lift launch vehicle capable of delivering the spacecraft and its payload to a Mars transfer trajectory.
+Phase 5: Operational Phase
+- Data Collection: Begin radar observation to study Mars' surface, subsurface structures, and atmospheric dynamics.
+- Data Transmission: Regularly transmit collected data back to Earth for analysis and research purposes.
 
-4. Transit Phase:
-   - Trajectory Correction Maneuvers: Perform necessary adjustments during transit to ensure accurate Mars insertion.
-   - Crew Well-being: Monitor and maintain physical health and psychological morale through exercise, recreation, and communication with Earth.
+Phase 6: Mission Conclusion and Analysis
+- Evaluate the radar station's performance, data quality, and the effectiveness of the regolith shelter.
+- Document lessons learned for future Mars missions and infrastructure development.
 
-5. Mars Orbit Insertion and Landing:
-   - Aerobraking: Use Mars' atmosphere for aerobraking to reduce speed for orbit insertion.
-   - Landing Site Selection: Prioritize a flat, stable area with ample regolith for shelter construction and minimal obstruction for radar operation.
+Cost Estimate:
+- Radar System Development and Testing: $200 million
+- Shelter Design and ISRU Technology Development: $150 million
+- Spacecraft and Mission Hardware: $500 million
+- Launch Services: $350 million (estimate for two Starship launches, including one for crew and one for cargo)
+- Crew Training and Support: $100 million
+- Mars Surface Operations and Maintenance: $200 million
+- Total Estimated Cost: $1.5 billion
 
-6. Construction Phase:
-   A. Regolith Shelter Construction:
-      - Excavation: Use robotic excavators to gather regolith and transport it to the construction site.
-      - Shelter Design: Construct a dome-shaped shelter using regolith-based bricks or layers for radiation shielding and thermal insulation.
-      - Reinforcement: Incorporate inflatable structures or internal frameworks for added stability against Martian weather conditions.
+Note: This cost estimate is highly speculative and subject to change based on technological advancements, mission design refinements, and economic factors. It does not include indirect costs such as ground operations, mission control, and long-term data analysis.
 
-   B. Radar Station Setup:
-      - Assembly: Erect radar equipment within the regolith shelter, ensuring structural stability and operational integrity.
-      - Calibration: Perform thorough testing and calibration of the radar system for optimal performance.
-
-7. Operational Phase:
-   - Data Collection: Begin continuous planetary observation and data relay back to Earth.
-   - Maintenance: Conduct regular maintenance of the radar station, habitat, and support systems, utilizing both crewed and robotic resources.
-
-8. Long-term Sustainability:
-   - Expansion Potential: Design the initial infrastructure to allow for easy expansion, supporting future missions and potential Martian habitat development.
-   - Research and Development: Use data collected by the radar station to inform further research on Martian geology, climate, and potential for human colonization.
-
-9. Mission Conclusion and Evaluation:
-   - Data Analysis: Compile and analyze the collected data to assess the radar station's performance and its contributions to Mars exploration.
-   - Lessons Learned: Document challenges encountered and solutions developed during the mission for application in future Mars missions.
 
 ***
