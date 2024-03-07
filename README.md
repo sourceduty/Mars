@@ -90,7 +90,7 @@ Following the development phase, the preparation and launch phase would include 
 Once on Mars, the operational phase of the mission, including navigating to and recovering each rover, would depend heavily on the distances between rovers, the recovery vehicle's speed and operational efficiency, and the Martian environmental conditions. This phase could take anywhere from several months to over a year, especially when factoring in the time required for planning each recovery leg, executing the operations, and dealing with potential Martian challenges such as dust storms. In total, from initial development to the completion of recovery operations on Mars, the mission could span approximately 7 to 10 years.
 
 ***
-### Humanoids
+## Humanoids
 
 ![Humanoids](https://github.com/sourceduty/Mars/assets/123030236/04625a99-2269-4515-b810-c5688c93c117)
 
