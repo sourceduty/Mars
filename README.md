@@ -148,3 +148,5 @@ Conclusion:
 A humanoid robot mission to Mars offers a cost-effective alternative to human exploration, reducing the mission cost by approximately 80%. This approach allows for extended surface operations, eliminates risks to human life, and tests technologies critical for future crewed missions. However, the human crewed mission offers unparalleled decision-making capabilities, adaptability, and the potential for more complex scientific exploration and public engagement.
 
 ***
+
+![Buried Martian Skull](https://github.com/sourceduty/Mars/assets/123030236/d2c922fb-dafd-4a94-8eca-b197518944b5)
