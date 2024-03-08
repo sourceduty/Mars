@@ -282,44 +282,44 @@ Objective: To initiate the construction of durable, navigable roads on Mars to s
 
 1. Mission Objectives:
 
--Conduct detailed reconnaissance of the Martian surface to identify optimal road locations.
--Test and deploy road construction technologies suitable for the Martian environment.
--Establish a foundational network of roads to key locations, including potential sites for future habitats, research facilities, and resource extraction zones.
+- Conduct detailed reconnaissance of the Martian surface to identify optimal road locations.
+- Test and deploy road construction technologies suitable for the Martian environment.
+- Establish a foundational network of roads to key locations, including potential sites for future habitats, research facilities, and resource extraction zones.
 
 2. Spacecraft Design:
 
--Orbiter Component: Equipped with high-resolution cameras and sensors for surface mapping and site selection.
--Lander Component: Houses road construction machinery, which includes modular, automated road-building units designed for the Martian environment.
--Rovers: Autonomous or remotely operated vehicles equipped with ground-penetrating radar, material testing tools, and minor construction capabilities to assist in road construction.
+- Orbiter Component: Equipped with high-resolution cameras and sensors for surface mapping and site selection.
+- Lander Component: Houses road construction machinery, which includes modular, automated road-building units designed for the Martian environment.
+- Rovers: Autonomous or remotely operated vehicles equipped with ground-penetrating radar, material testing tools, and minor construction capabilities to assist in road construction.
 
 3. Crew Selection Criteria:
 
--Engineering Expertise: Individuals with a strong background in civil engineering, particularly in unconventional or off-Earth environments.
--Robotic Operations: Skills in operating and troubleshooting autonomous construction machinery and drones.
--Geological Expertise: Understanding of Martian geology to assist in material selection and terrain assessment.
--Psychological Resilience: Ability to work in isolated, high-stress environments for extended periods.
+- Engineering Expertise: Individuals with a strong background in civil engineering, particularly in unconventional or off-Earth environments.
+- Robotic Operations: Skills in operating and troubleshooting autonomous construction machinery and drones.
+- Geological Expertise: Understanding of Martian geology to assist in material selection and terrain assessment.
+- Psychological Resilience: Ability to work in isolated, high-stress environments for extended periods.
 
 4. Launch Vehicle:
 
--Selection of a heavy-lift rocket, such as the SpaceX Starship or NASA's Space Launch System (SLS), capable of carrying the necessary payload to Mars.
+- Selection of a heavy-lift rocket, such as the SpaceX Starship or NASA's Space Launch System (SLS), capable of carrying the necessary payload to Mars.
 
 5. Estimated Costs:
 
--Development and Testing of Road Construction Technology: $500 million to $1 billion. This includes the design, development, and Earth-based testing of the road construction units and supporting machinery.
--Spacecraft Development and Construction: $2 billion to $3 billion. This covers the design and construction of the orbiter, lander, and rovers, along with the integration of all systems.
--Launch Costs: $350 million to $500 million per launch, assuming the use of SpaceX Starship. Multiple launches may be required to transport all equipment and crew to Mars.
--Mission Operations and Crew Training: $500 million to $700 million. This includes the cost of operating the mission from Earth, training the crew, and real-time support during the mission.
--Contingency and Miscellaneous: $1 billion to account for unforeseen expenses and challenges.
+- Development and Testing of Road Construction Technology: $500 million to $1 billion. This includes the design, development, and Earth-based testing of the road construction units and supporting machinery.
+- Spacecraft Development and Construction: $2 billion to $3 billion. This covers the design and construction of the orbiter, lander, and rovers, along with the integration of all systems.
+- Launch Costs: $350 million to $500 million per launch, assuming the use of SpaceX Starship. Multiple launches may be required to transport all equipment and crew to Mars.
+- Mission Operations and Crew Training: $500 million to $700 million. This includes the cost of operating the mission from Earth, training the crew, and real-time support during the mission.
+- Contingency and Miscellaneous: $1 billion to account for unforeseen expenses and challenges.
 
 Total Estimated Cost: $4.35 billion to $6.2 billion
 
 6. Timeline:
 
--Year 1-3: Design and development of road construction technologies and spacecraft components.
--Year 4-5: Testing of technologies on Earth and in simulated Martian environments. Crew selection and training.
--Year 6: Launch of the orbiter and reconnaissance phase.
--Year 7: Launch of landers and rovers, initiation of road construction.
--Year 8-10: Construction phase, with ongoing assessment and expansion of the road network.
+- Year 1-3: Design and development of road construction technologies and spacecraft components.
+- Year 4-5: Testing of technologies on Earth and in simulated Martian environments. Crew selection and training.
+- Year 6: Launch of the orbiter and reconnaissance phase.
+- Year 7: Launch of landers and rovers, initiation of road construction.
+- Year 8-10: Construction phase, with ongoing assessment and expansion of the road network.
 
 Note: The above estimates and timelines are hypothetical and based on current costs and technologies. Actual costs and timelines may vary based on technological advancements, mission scope changes, and other unforeseen factors.
 
