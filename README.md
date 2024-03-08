@@ -323,4 +323,6 @@ Total Estimated Cost: $4.35 billion to $6.2 billion
 
 Note: The above estimates and timelines are hypothetical and based on current costs and technologies. Actual costs and timelines may vary based on technological advancements, mission scope changes, and other unforeseen factors.
 
+![Roads](https://github.com/sourceduty/Mars/assets/123030236/4041b99c-9ed6-4328-98ba-73eb1a267fab)
+
 ***
