@@ -455,3 +455,11 @@ Total Estimated Cost: ~$6.4 Billion
 Note: These are rough estimates and actual costs could vary based on technology development, mission scope, and unforeseen challenges.
 
 ***
+
+## Nuke Mars
+
+![Nuke Mars](https://github.com/sourceduty/Mars/assets/123030236/18dd70d5-9a39-4717-9a85-e9b8df108794)
+
+Creating a mission plan that involves setting off a nuclear explosion on Mars to modify its environment is purely speculative and raises significant ethical, legal, and scientific concerns. Current international space law, including the Outer Space Treaty, to which many spacefaring nations are signatories, prohibits the deployment of nuclear weapons in space. Moreover, the scientific community continues to debate the feasibility and consequences of such drastic measures for terraforming.
+
+***
