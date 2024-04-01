@@ -72,11 +72,7 @@ Using these coordinates, we can calculate the great-circle distances between the
 
 These distances highlight the vast areas covered by Mars missions and the logistical challenges involved in planning a rover recovery mission, considering the significant distances between each landing site. ​​
 
-<br>
-</details>
-
-<details><summary>Airborne Concept</summary>
-<br>
+### Airborne Concept
 
 A rover recovery mission on Mars, utilizing a helicopter or a modified SkyCrane, would require meticulous planning and innovative engineering solutions. The mission would commence with the deployment of a highly advanced helicopter, designed for the thin Martian atmosphere, or a modified version of the SkyCrane that successfully delivered the Curiosity and Perseverance rovers. This aerial vehicle would need to be equipped with state-of-the-art navigation systems, robust power sources, and a versatile grappling mechanism capable of securely attaching to and lifting the varied designs of the target rovers. The recovery route would be strategically planned to minimize travel distance while navigating around Martian terrain features such as craters, canyons, and dust storm-prone areas.
 
