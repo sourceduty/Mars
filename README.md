@@ -2,7 +2,8 @@
 
 ***
 
-## Rovers
+<details><summary>Rovers</summary>
+<br>
 
 ![Parts](https://github.com/sourceduty/Mars/assets/123030236/2b492fcd-3a06-4d57-a8c0-6c6f1c877bb0)
 
@@ -24,9 +25,11 @@ Despite the greater upfront investment, the benefits of resource recovery and su
 
 ![Martian Salvage](https://github.com/sourceduty/Mars/assets/123030236/9c578ea0-2b18-4338-a704-6bd792d6bfe2)
 
-***
+<br>
+</details>
 
-## Martian Lightsabers
+<details><summary>Martian Lightsabers</summary>
+<br>
 
 The primary mission of Mars 2020 rover involves meticulously collecting Mars rocks and soil, sealing them in tubes, and depositing them at specific surface locations with precise maps for potential future retrieval. In the rover's abdomen, essential equipment like a rotating drill carousel and 43 sample tubes are managed by a small robotic arm. To prevent Earth contamination, "witness tubes" accompany sample tubes, capturing potential contaminants. These witness tubes are opened on the Martian surface to monitor the environment during sample collection. Once collected, samples are stored within the rover until they are strategically placed at designated "sample cache depots" with precise coordinates, allowing for future retrieval and potential return to Earth, ensuring contamination-free Martian material study.
 
@@ -36,9 +39,11 @@ The [dirt sample tubes](https://www.space.com/nasa-mars-perseverance-rover-sampl
 
 ![Mars Lightsaber](https://github.com/sourceduty/Mars/assets/123030236/556c69b7-334d-4188-9a3c-f8fca5eaa754)
 
-***
+<br>
+</details>
 
-## Rover Recovery 
+<details><summary>Rover Recovery</summary>
+<br>
 
 ### Concept Mission
 
@@ -66,8 +71,11 @@ Using these coordinates, we can calculate the great-circle distances between the
 
 These distances highlight the vast areas covered by Mars missions and the logistical challenges involved in planning a rover recovery mission, considering the significant distances between each landing site. ​​
 
-#
-### Airborne Concept
+<br>
+</details>
+
+<details><summary>Airborne Concept</summary>
+<br>
 
 A rover recovery mission on Mars, utilizing a helicopter or a modified SkyCrane, would require meticulous planning and innovative engineering solutions. The mission would commence with the deployment of a highly advanced helicopter, designed for the thin Martian atmosphere, or a modified version of the SkyCrane that successfully delivered the Curiosity and Perseverance rovers. This aerial vehicle would need to be equipped with state-of-the-art navigation systems, robust power sources, and a versatile grappling mechanism capable of securely attaching to and lifting the varied designs of the target rovers. The recovery route would be strategically planned to minimize travel distance while navigating around Martian terrain features such as craters, canyons, and dust storm-prone areas.
 
@@ -93,8 +101,11 @@ Following the development phase, the preparation and launch phase would include 
 
 Once on Mars, the operational phase of the mission, including navigating to and recovering each rover, would depend heavily on the distances between rovers, the recovery vehicle's speed and operational efficiency, and the Martian environmental conditions. This phase could take anywhere from several months to over a year, especially when factoring in the time required for planning each recovery leg, executing the operations, and dealing with potential Martian challenges such as dust storms. In total, from initial development to the completion of recovery operations on Mars, the mission could span approximately 7 to 10 years.
 
-***
-## Humanoids
+<br>
+</details>
+
+<details><summary>Humanoids</summary>
+<br>
 
 ![Humanoids](https://github.com/sourceduty/Mars/assets/123030236/04625a99-2269-4515-b810-c5688c93c117)
 
@@ -108,8 +119,12 @@ Yet, humanoids are not without their limitations. Their ability to adapt to unex
 
 In conclusion, the choice between sending humans or humanoids to Mars involves a complex trade-off between the adaptability and creativity of humans and the risk reduction and cost-effectiveness of robots. A phased approach, starting with robotic missions to conduct reconnaissance and establish infrastructure, followed by human missions to leverage human cognition and creativity, might offer the most balanced strategy for Mars exploration. This combination could maximize scientific returns while minimizing risks and costs associated with deep space exploration.
 
-***
-## Humanoid Exploration of Mars
+
+<br>
+</details>
+
+<details><summary>Humanoid Exploration of Mars</summary>
+<br>
 
 ### Concept Mission
 
@@ -151,13 +166,13 @@ Compared to Human Crewed Mission:
 Conclusion:
 A humanoid robot mission to Mars offers a cost-effective alternative to human exploration, reducing the mission cost by approximately 80%. This approach allows for extended surface operations, eliminates risks to human life, and tests technologies critical for future crewed missions. However, the human crewed mission offers unparalleled decision-making capabilities, adaptability, and the potential for more complex scientific exploration and public engagement.
 
-***
-
 ![Buried Martian Skull](https://github.com/sourceduty/Mars/assets/123030236/d2c922fb-dafd-4a94-8eca-b197518944b5)
 
-***
+<br>
+</details>
 
-## Regolith Sheltered Radar Station
+<details><summary>Regolith Sheltered Radar Station</summary>
+<br>
 
 ![Regolith Sheltered Radar Station](https://github.com/sourceduty/Mars/assets/123030236/987f6563-9799-4175-9a13-94b27df33ded)
 
@@ -207,9 +222,11 @@ Cost Estimate:
 Note: This cost estimate is highly speculative and subject to change based on technological advancements, mission design refinements, and economic factors. It does not include indirect costs such as ground operations, mission control, and long-term data analysis.
 
 
-***
+<br>
+</details>
 
-## Pre-supply Equipment and Resources
+<details><summary>Pre-supply Equipment and Resources</summary>
+<br>
 
 ![Supply](https://github.com/sourceduty/Mars/assets/123030236/b9f7d5ab-a246-46d5-ace9-24678457cac0)
 
@@ -267,12 +284,13 @@ Technologies and Strategies:
 
 Note: These cost estimates are based on current prices and projections for space hardware, launches, and operations. Actual costs may vary due to technological advancements, inflation, and changes in mission scope or design.
 
+<br>
+</details>
 
-***
+<details><summary>Martian Roads</summary>
+<br>
 
 ![Mars Roads](https://github.com/sourceduty/Mars/assets/123030236/f92838fa-f92e-43eb-8019-a5256ad8727d)
-
-## Martian Roads
 
 ### Concept Mission
 
@@ -325,11 +343,13 @@ Note: The above estimates and timelines are hypothetical and based on current co
 
 ![Roads](https://github.com/sourceduty/Mars/assets/123030236/4041b99c-9ed6-4328-98ba-73eb1a267fab)
 
-***
+<br>
+</details>
+
+<details><summary>Tree First: Mars Tree Planting Mission</summary>
+<br>
 
 ![Tree](https://github.com/sourceduty/Mars/assets/123030236/a66ea38a-cb4b-4806-b7bc-e93ffbc966ea)
-
-## Tree First: Mars Tree Planting Mission
 
 Mission Overview
 
@@ -390,11 +410,13 @@ Conclusion
 
 "Tree First" represents an ambitious step towards making Mars habitable for future generations. Through careful planning, technological innovation, and international collaboration, this mission has the potential to inspire and revolutionize our approach to space colonization.
 
-***
+<br>
+</details>
+
+<details><summary>Mars Exploration and Habitation Boring Machines</summary>
+<br>
 
 ![Boring Mars Image 3](https://github.com/sourceduty/Mars/assets/123030236/0e3e98dd-cfcb-48a7-b525-50a4ff26428d)
-
-## Mars Exploration and Habitation Boring Machines
 
 Mission Objectives:
 
@@ -454,12 +476,17 @@ Total Estimated Cost: ~$6.4 Billion
 
 Note: These are rough estimates and actual costs could vary based on technology development, mission scope, and unforeseen challenges.
 
-***
+<br>
+</details>
 
-## Nuke Mars
+<details><summary>Nuke Mars</summary>
+<br>
 
 ![Nuke Mars](https://github.com/sourceduty/Mars/assets/123030236/18dd70d5-9a39-4717-9a85-e9b8df108794)
 
 Creating a mission plan that involves setting off a nuclear explosion on Mars to modify its environment is purely speculative and raises significant ethical, legal, and scientific concerns. Current international space law, including the Outer Space Treaty, to which many spacefaring nations are signatories, prohibits the deployment of nuclear weapons in space. Moreover, the scientific community continues to debate the feasibility and consequences of such drastic measures for terraforming.
+
+<br>
+</details>
 
 ***
