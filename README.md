@@ -1,4 +1,4 @@
-![Mars House](https://github.com/sourceduty/Mars/assets/123030236/5c92742d-fb6a-4229-bc15-d386593b68dc)
+![Buried Martian Skull](https://github.com/sourceduty/Mars/assets/123030236/d2c922fb-dafd-4a94-8eca-b197518944b5)
 
 🔴 Concept aerospace operations and plans for a future on Mars.
 
@@ -123,9 +123,9 @@ In conclusion, the choice between sending humans or humanoids to Mars involves a
 <details><summary>Humanoid Exploration of Mars</summary>
 <br>
 
-### Concept Mission
-
 ![Humanoid](https://github.com/sourceduty/Mars/assets/123030236/94110f33-5250-4f49-89b5-34404e7aa997)
+
+### Concept Mission
 
 Objectives:
 - Conduct geological surveys to understand Mars' composition and history.
@@ -162,8 +162,6 @@ Compared to Human Crewed Mission:
 
 Conclusion:
 A humanoid robot mission to Mars offers a cost-effective alternative to human exploration, reducing the mission cost by approximately 80%. This approach allows for extended surface operations, eliminates risks to human life, and tests technologies critical for future crewed missions. However, the human crewed mission offers unparalleled decision-making capabilities, adaptability, and the potential for more complex scientific exploration and public engagement.
-
-![Buried Martian Skull](https://github.com/sourceduty/Mars/assets/123030236/d2c922fb-dafd-4a94-8eca-b197518944b5)
 
 <br>
 </details>
