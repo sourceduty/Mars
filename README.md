@@ -1,4 +1,4 @@
-![Mars House](https://github.com/sourceduty/Mars/assets/123030236/4fb671ac-64e0-41a1-a509-00fe4318092d)
+![Mars House](https://github.com/sourceduty/Mars/assets/123030236/5c92742d-fb6a-4229-bc15-d386593b68dc)
 
 🔴 Concept aerospace operations and plans for a future on Mars.
 
@@ -487,6 +487,8 @@ Note: These are rough estimates and actual costs could vary based on technology 
 ![Nuke Mars](https://github.com/sourceduty/Mars/assets/123030236/18dd70d5-9a39-4717-9a85-e9b8df108794)
 
 Creating a mission plan that involves setting off a nuclear explosion on Mars to modify its environment is purely speculative and raises significant ethical, legal, and scientific concerns. Current international space law, including the Outer Space Treaty, to which many spacefaring nations are signatories, prohibits the deployment of nuclear weapons in space. Moreover, the scientific community continues to debate the feasibility and consequences of such drastic measures for terraforming.
+
+![Bomb](https://github.com/sourceduty/Mars/assets/123030236/be0d9e2d-74d2-4bd0-a1cf-28462278a3c6)
 
 <br>
 </details>
