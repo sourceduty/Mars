@@ -46,11 +46,11 @@ The [dirt sample tubes](https://www.space.com/nasa-mars-perseverance-rover-sampl
 <details><summary>Rover Recovery</summary>
 <br>
 
+![Skycrane Hoisting the Opportunity Rover](https://github.com/sourceduty/Mars/assets/123030236/c7968ae9-c9e8-44c6-a183-b58b9a1d458c)
+
 ### Concept Mission
 
 Consider the landing sites of the major Mars rover missions: Sojourner (part of the Mars Pathfinder mission in 1997), Spirit and Opportunity (Mars Exploration Rovers, landed in 2004), and Curiosity (Mars Science Laboratory, landed in 2012).
-
-![Skycrane Hoisting the Opportunity Rover](https://github.com/sourceduty/Mars/assets/123030236/c7968ae9-c9e8-44c6-a183-b58b9a1d458c)
 
 #
 
