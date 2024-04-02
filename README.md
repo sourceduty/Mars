@@ -1,4 +1,4 @@
-![Mars](https://github.com/sourceduty/Mars/assets/123030236/eb783631-d3a8-41f0-85ef-a6ecc6e9e3b7)
+![Mars](https://github.com/sourceduty/Mars/assets/123030236/38c42817-8cd7-47c0-b0a4-6bd97060cf03)
 
 🔴 Concept aerospace operations and plans for a future on Mars.
 
