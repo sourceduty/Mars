@@ -14,7 +14,7 @@
 
 ### Standardization
 
-Alex: "I'm very surprised that all of the rovers on Mars aren't standardized and easy to disassemble for reuse. I think that the unique design of each Martian rover seems inefficient as designed by humans who practice standardization on Earth."
+Alex: *"I'm very surprised that all of the rovers on Mars aren't standardized and easy to disassemble for reuse. I think that the unique design of each Martian rover seems inefficient as designed by humans who practice standardization on Earth."*
 
 #
 ### Design for Salvage-Capable Rovers in Space Exploration
