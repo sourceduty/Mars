@@ -495,5 +495,4 @@ Creating a mission plan that involves setting off a nuclear explosion on Mars to
 </details>
 
 ***
-
-![Buried Martian Skull](https://github.com/sourceduty/Mars/assets/123030236/f193ba29-8dd2-4f92-8e47-ece76fa93e3c)
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
