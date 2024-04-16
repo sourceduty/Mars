@@ -502,5 +502,13 @@ Creating a mission plan that involves setting off a nuclear explosion on Mars to
 <br>
 </details>
 
+<details><summary>Astronaut Jargon</summary>
+<br>
+
+[Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
+
+<br>
+</details>
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
