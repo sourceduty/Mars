@@ -10,7 +10,12 @@
 ![Parts](https://github.com/sourceduty/Mars/assets/123030236/2b492fcd-3a06-4d57-a8c0-6c6f1c877bb0)
 
 ### Rover Design
-#
+
+NASA's approach to Mars rover design exemplifies a blend of cutting-edge technology and rigorous engineering principles tailored to the harsh Martian environment. Each rover, from Sojourner to the more recent Perseverance, is built to perform complex scientific tasks while enduring extreme conditions. The designs incorporate robust mobility systems to navigate diverse terrains, from rocky landscapes to sand dunes. Rovers are equipped with sophisticated scientific instruments intended for astrobiology, geology, and atmospheric studies, helping to unravel Mars' history and assess its habitability. Solar panels or radioisotope thermoelectric generators typically power these rovers, ensuring sustained operations. Additionally, communication systems are crucial for transmitting vast amounts of data back to Earth. With each mission, NASA iteratively improves its rover designs, incorporating lessons learned from previous missions to enhance durability, efficiency, and scientific capabilities.
+
+### Rover Parts
+
+Perseverance is a complex machine comprising thousands of different parts. Perseverance is built with multiple systems that include cameras, sensors, scientific instruments, and a robotic arm. Each of these systems is made up of numerous components. Although a specific count of every individual part isn't typically detailed publicly due to the complexity and proprietary nature of the design, it's safe to say that the rover includes several thousand distinct parts. These range from small screws and electronic components to large assemblies such as the rover's chassis and wheels.
 
 ### Standardization
 
