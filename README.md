@@ -514,6 +514,9 @@ The type of animal capable of surviving on the harsh surface of Mars would need 
 
 This animal's cellular structure would be extraordinarily robust, possibly having a unique form of DNA repair system to quickly fix damage caused by cosmic rays and solar radiation, challenges that are prevalent on Mars due to the thin atmosphere. Moreover, its metabolism might operate in a cryptobiotic state—meaning it could effectively shut down during prolonged periods of extreme cold or drought, and then revive itself when conditions become more favorable, much like Earth's resurrection plants. Living near or under the surface, it would likely thrive in Martian caves or crevices, where it can avoid some radiation and perhaps access subsurface ice deposits for water, pointing to a fascinating adaptation strategy in the stark conditions of Mars.
 
+<br>
+</details>
+
 #
 ### Related Links
 
@@ -524,9 +527,6 @@ This animal's cellular structure would be extraordinarily robust, possibly havin
 [Space Agencies](https://github.com/sourceduty/Space_Agencies)
 <br>
 [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
-
-<br>
-</details>
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
