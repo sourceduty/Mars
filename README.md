@@ -34,6 +34,20 @@ Despite the greater upfront investment, the benefits of resource recovery and su
 <br>
 </details>
 
+<details><summary>Space Property Laws</summary>
+<br>
+
+![Space Property Laws](https://github.com/sourceduty/Mars/assets/123030236/d522f4ab-868e-4a0f-847a-797e39fdcc7c)
+
+Current property laws for man-made equipment on Mars are primarily governed by the principles of the Outer Space Treaty of 1967, ensuring that ownership remains with the entity that deployed the equipment, while preventing national appropriation of Martian territory. The Moon Agreement of 1979 allows for the ownership of man-made objects (e.g., rovers, landers) to remain with the entity that launched them.
+
+Salvage-capable systems, designed to repurpose parts from previous missions or repair damaged equipment, would be controlled by their respective country's space agency through a combination of automation and direct remote operations. These space agencies, such as NASA or ESA, would retain jurisdiction and control over their rovers as per the Outer Space Treaty, ensuring compliance with international space law. The control systems would involve a sophisticated blend of pre-programmed instructions and real-time adjustments, facilitated by deep-space communication networks. This setup would enable the systems to efficiently navigate the Martian terrain, identify salvageable materials, and perform intricate repair tasks while adhering to the safety protocols and mission objectives set by their space agency. Continuous supervision and oversight would be necessary to adapt to the dynamic challenges of the Martian environment, ensuring the systems' operations align with both the technical goals and the broader international guidelines for space exploration.
+
+As human activities outside of Earth increase, there will likely be a push for more detailed laws and agreements addressing property rights, resource utilization, and potential conflicts.
+
+<br>
+</details>
+
 <details><summary>Martian Lightsabers</summary>
 <br>
 
