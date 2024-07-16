@@ -527,6 +527,8 @@ This animal's cellular structure would be extraordinarily robust, possibly havin
 [Space Agencies](https://github.com/sourceduty/Space_Agencies)
 <br>
 [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
+<br>
+[Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
