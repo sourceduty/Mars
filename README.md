@@ -526,7 +526,7 @@ This animal's cellular structure would be extraordinarily robust, possibly havin
 
 #
 
-![Martian](https://github.com/user-attachments/assets/36ed0b56-c544-4054-a392-7c80d1a38ebd)
+![Martian](https://github.com/user-attachments/assets/ca94a7df-7344-4c56-bf49-1e51018530d4)
 
 #
 ### Related Links
