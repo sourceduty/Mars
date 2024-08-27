@@ -526,7 +526,7 @@ This animal's cellular structure would be extraordinarily robust, possibly havin
 
 #
 
-![Floating in Space](https://github.com/user-attachments/assets/e1c5b048-2414-4b96-b7fd-cfe2e1233632)
+![Martian](https://github.com/user-attachments/assets/36ed0b56-c544-4054-a392-7c80d1a38ebd)
 
 #
 ### Related Links
