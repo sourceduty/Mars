@@ -1,4 +1,5 @@
 ![Mars](https://github.com/sourceduty/Mars/assets/123030236/17146bc3-4d31-48f7-9567-8cc54402f6a1)
+![Mars](https://github.com/user-attachments/assets/0c248060-ed0e-4951-bf5b-79a9c019308e)
 
 > Concept aerospace operations and plans for a future on Mars.
 
@@ -539,8 +540,8 @@ For SpaceX's Starship missions to Mars, likely landing sites will consider a bal
 </details>
 
 #
-
 ![Martian](https://github.com/user-attachments/assets/ca94a7df-7344-4c56-bf49-1e51018530d4)
+![Astronaut](https://github.com/user-attachments/assets/b2ff0832-e00b-4310-8ee3-cb84150d5c35)
 
 #
 ### Related Links
